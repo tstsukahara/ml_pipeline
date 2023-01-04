@@ -1,0 +1,3 @@
+defaults:
+  - env: dev
+  - model: catboost

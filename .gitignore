@@ -1,5 +1,6 @@
-multiraun/
-outputs/
-results/
+.idea
+multirun
+outputs
+results
 *.pyc
 __pycache__

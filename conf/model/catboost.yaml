@@ -1,0 +1,3 @@
+name: catboost
+params:
+  beta: 0.1
